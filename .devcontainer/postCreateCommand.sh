@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # This installs the hub feature binaries that allow for fork operations from the command line
-apt install hub
+sudo apt install hub
 
 # Create a new PreTeXt project.
 pretext new -d .
