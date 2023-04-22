@@ -12,7 +12,7 @@ python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade CodeChat-Server runestone pretext
 
 # This installs the hub feature binaries that allow for fork operations from the command line
-apt-get install hub
+apt install hub
 
-./postCreateCommand.sh
-./postStartCommand.sh
+sh ./devconatiner/postCreateCommand.sh
+sh ./devconatiner/postStartCommand.sh
