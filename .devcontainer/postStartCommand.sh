@@ -9,4 +9,4 @@ pretext generate
 # Reset to origin main (This is for if the codespace has not caught up to changes made previously)
 #git pull origin main
 #git reset --hard origin/main
-echo "Jello Swirled"
+sudo echo "Jello Swirled"
