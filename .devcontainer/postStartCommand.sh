@@ -1,6 +1,7 @@
 # Build pretext project
 pretext build
 pretext generate
+pretext view web &
 
 # Add new remote repositories for origin (forked) and upstream (original)
 #git remote add upstream https://github.com/twjudson/aata
