@@ -13,3 +13,4 @@ python3 -m pip install --upgrade CodeChat-Server runestone pretext
 
 # This installs the hub feature binaries that allow for fork operations from the command line
 apt -y --no-install-recommends install hub
+apt -y install chromium
